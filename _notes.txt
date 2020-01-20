@@ -12,3 +12,17 @@ yarn add express
 criar o git ignore
 
 .gitignore
+nomedoaqruivooupasta
+
+-----------------
+config
+-----------------
+git config --global user.email "sandro@mirity.com"
+git config --global user.name "Sandro Silva"
+
+
+------------------
+comite
+------------------
+git add . //para todos os arquivos ou o nome do arqui / pasta
+git commit -m "chore: Commit inicial"   // -m titulo do commite - exeplos chare (inicio) / fix / feature

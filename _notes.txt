@@ -1,0 +1,14 @@
+iniciar
+git init
+
+----------------------------
+
+yarn init -y
+
+yarn add express
+
+----------------------------
+
+criar o git ignore
+
+.gitignore
